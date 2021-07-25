@@ -1,8 +1,8 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Simple Tweet*
 
-**Name of your app** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Simple Tweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/SekEleERWmHjxH7EGa/giphy.gif' />
+<img src='https://media.giphy.com/media/N8sCUbkLcSwbCQIr3H/giphy.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
